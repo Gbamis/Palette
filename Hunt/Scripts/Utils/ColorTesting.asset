@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37609b8a4c6bc634994545c139e9ed7c, type: 3}
+  m_Name: ColorTesting
+  m_EditorClassIdentifier: 
+  visibilityDistance: 0.1906845
+  parentA: {r: 0.09710693, g: 1, b: 0, a: 1}
+  parenB: {r: 0, g: 0, b: 0, a: 1}
+  fullNode:
+    distance: 0.5602361
+    isMatched: 0
+    expectedResult: {r: 0.048553467, g: 0.5, b: 0, a: 1}
+    playerInput: {r: 0.41509432, g: 0.41509432, b: 0.41509432, a: 1}
+    visible: 0.1906845
+  leftNode:
+    distance: 0.18684834
+    isMatched: 1
+    expectedResult: {r: 0.024276733, g: 0.25, b: 0, a: 1}
+    playerInput: {r: 0.13576896, g: 0.254717, b: 0.14986506, a: 1}
+    visible: 0.1906845
+  full: 1
+  leftHalf: 1

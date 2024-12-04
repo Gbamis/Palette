@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4241c8cd80311524cb79f38cd86a775a, type: 3}
+  m_Name: Shepherd_July_Data
+  m_EditorClassIdentifier: 
+  shepherdPrefab: {fileID: 5894166014148094215, guid: 336d698ca7d9b5947bf93a1e39e055c0, type: 3}
+  weaponFactory: {fileID: 11400000, guid: 491701312250f394fb471267e0b45ef8, type: 2}
+  icon: {fileID: 21300000, guid: 0ffbcb5e646da504eaddf72dc590b4dc, type: 3}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  attainedLevel: 2
+  dataHash: 0

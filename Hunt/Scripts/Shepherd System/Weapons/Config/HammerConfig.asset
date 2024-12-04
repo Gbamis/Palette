@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc5a8c8ed92a844082909bc5e6b3de8, type: 3}
+  m_Name: HammerConfig
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 1934258008006140453, guid: 343aaa9404d3d1d40b520884b4c5d76a, type: 3}
+  spawnRotation: {x: 0, y: 0, z: 0}
+  spawnScale: 1
+  subStateMachine: isHammer
+  spawnAtGoal: 1
+  swapAnimPlaces: 1
+  rate_of_use: 1
+  damage_amount: 4
+  field_of_view: 180
+  view_distance: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3ce1e1cce21544d858ac446695a564, type: 3}
+  m_Name: Action_Feed
+  m_EditorClassIdentifier: 
+  action_name: Feed Actions
+  action_score: 0
+  icon: {fileID: 21300000, guid: 1d622309c729adb4b84043b35186d7c4, type: 3}
+  actionFilter: 
+  animalConsiderations:
+  - {fileID: 11400000, guid: e437e252dade13446befbd5174e84c40, type: 2}
+  - {fileID: 11400000, guid: 8e0337871f4cc0947b107e4b1410b9f0, type: 2}
+  - {fileID: 11400000, guid: 21e644d293e75dc42bb3c4d543e6a75e, type: 2}

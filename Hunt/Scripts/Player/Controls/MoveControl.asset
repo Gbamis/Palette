@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1c8b692f8ddb4b4193c36f7f5960b96, type: 3}
+  m_Name: MoveControl
+  m_EditorClassIdentifier: 
+  mouseMode: {fileID: 11400000, guid: df5349ea90c11aa4f9e367eebd2c35ae, type: 2}
+  wasd_speed: 20
+  clickMask:
+    serializedVersion: 2
+    m_Bits: 64
+  canPlayerMove: 0
